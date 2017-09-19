@@ -6,7 +6,7 @@ Location to log 20Time work and learning.  This readme should be updated as a lo
 * templates, completed examples, and the tools that coaches will need to create a successful playbook.
 
 #### Week 1 (September 18th - 22nd)
-* Goal: 
+* Goal: Focus on learning HTML to prepare for building the playbook template website.
 * Completed: 
 
 #### Week 2 (Date Range Here)
