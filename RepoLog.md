@@ -11,7 +11,7 @@ Location to log 20Time work and learning.  This readme should be updated as a lo
 start working on the website. I posted my idea into Google Classroom for the class to see.
 
 #### Week 2 (Date Range Here)
-* To follow
+* Goal: Create some templates (on a Google Docs or something), and get the base website started.
 
 #### Week 3 (Date Range Here)
 * To follow
