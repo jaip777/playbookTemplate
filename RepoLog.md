@@ -12,6 +12,7 @@ start working on the website. I posted my idea into Google Classroom for the cla
 
 #### Week 2 (Date Range Here)
 * Goal: Create some templates (on a Google Docs or something), and get the base website started.
+* Completed: Finished making 1 template. Also watched tutorial videos on how to build a website from scratch (I want to make it myself isntead of using something like Wix), and got started on making it! Created an index.html file (added some text), and I started some styling by creating a style.css file. Got a base website going! Good progress made.
 
 #### Week 3 (Date Range Here)
 * To follow
