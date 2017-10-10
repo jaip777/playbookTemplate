@@ -1,31 +1,65 @@
 body {
-background: #096D07;
-text-align: center;
+text-align: left;
+margin-left: 0px;
+margin-top: 0px;
+margin-right: 0px;
+}
+#appBar {
+  background: black;
+  height: 40px;
+}
+#heading{
+  background: #0FA939;
+  color: white;
+  padding-top: 0.5px;
+  padding-bottom: 40px;
+  padding-left: 3px;
+  height: 60px;
 }
 #main{
-  position: relative;
   width: 1000px;
-  background: #0FA939;
-  margin: 25px auto;
-  border: solid 8px #5F4A07
+}
+#home{
+  font-family: "Candara";
+  width: 125px;
+  box-shadow: 0 2px #27496d;
+  margin-top: 10px;
+  margin-left: 730px;
+}
+#PBTemplates{
+  font-family: "Candara";
+  box-shadow: 0 2px #27496d;
+  margin-top: 10px;
+  margin-left: 8px;
+}
+#PCSheets{
+    width: 125px;
+  font-family: "Candara";
+  box-shadow: 0 2px #27496d;
+  margin-top: 10px;
+  margin-left: 8px;
+}
+#TnD{
+    width: 125px;
+  font-family: "Candara";
+  box-shadow: 0 2px #27496d;
+  margin-top: 10px;
+  margin-left: 8px;
 }
 h1{
-  text-align: center;
-  font-family: "Georgia";
-  font: 24pt;
+  margin-left: 30px;
+  text-align: left;
+  font-family: "Candara";
+  font-size: 30pt;
   color: "blue";
 }
-hr {
-  color: #ff3819;
-  width: 990px;
-  height: 8px;
-}
+
 p{
+  margin-left: 30px;
   font-family: "Calibri";
   font-size: 12pt;
   text-align: justify;
-  padding-left: 30px;
+  padding-left: 0px;
   color: #2f2d2d;
   width: 380px;
-
 }
