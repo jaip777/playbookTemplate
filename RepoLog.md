@@ -10,12 +10,12 @@ Location to log 20Time work and learning.  This readme should be updated as a lo
 * Completed: Watched all of the tutorial videos in Intro to HTML on Khan Academy. Completed 4 projects on HTML. Now able to
 start working on the website. I posted my idea into Google Classroom for the class to see.
 
-#### Week 2 (Date Range Here)
+#### Week 2 (September 25th - 29th)
 * Goal: Create some templates (on a Google Docs or something), and get the base website started.
 * Completed: Finished making 1 template. Also watched tutorial videos on how to build a website from scratch (I want to make it myself isntead of using something like Wix), and got started on making it! Created an index.html file (added some text), and I started some styling by creating a style.css file. Got a base website going! Good progress made.
 
-#### Week 3 (Date Range Here)
-* To follow
+#### Week 3 (October 2nd - 6th)
+* Completed: Finished another template for the playbook on google docs. Learned how to position objects around the website by watching tutorial videos, so that I can place my text and images around the website where I choose. Watched tutorials on creating interactive websites. Researched website templates to determine how I should make my website look.
 
 #### Week 4 (Date Range Here)
 * To follow
