@@ -17,8 +17,8 @@ start working on the website. I posted my idea into Google Classroom for the cla
 #### Week 3 (October 2nd - 6th)
 * Completed: Finished another template for the playbook on google docs. Learned how to position objects around the website by watching tutorial videos, so that I can place my text and images around the website where I choose. Watched tutorials on creating interactive websites. Researched website templates to determine how I should make my website look.
 
-#### Week 4 (Date Range Here)
-* To follow
+#### Week 4 (October 9th-13th)
+* Completed: Did some more research on web-design, specifically sports themed websites. I finalized my decision for what I would be including in my website. I also worked on designing some more templates on Google Docs.
 
 #### Week 5 (Date Range Here)
 * To follow
