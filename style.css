@@ -4,6 +4,12 @@ margin-left: 0px;
 margin-top: 0px;
 margin-right: 0px;
 }
+img {
+  position:absolute;
+  margin-left: 15px;
+  height: 50px;
+  padding-bottom: 2px;
+}
 #appBar {
   background: black;
   height: 40px;
@@ -23,27 +29,27 @@ margin-right: 0px;
   font-family: "Candara";
   width: 125px;
   box-shadow: 0 2px #27496d;
-  margin-top: 10px;
-  margin-left: 730px;
+  margin-top: 7px;
+  margin-left: 600px;
 }
 #PBTemplates{
   font-family: "Candara";
   box-shadow: 0 2px #27496d;
-  margin-top: 10px;
+  margin-top: 7px;
   margin-left: 8px;
 }
 #PCSheets{
-    width: 125px;
+  width: 125px;
   font-family: "Candara";
   box-shadow: 0 2px #27496d;
-  margin-top: 10px;
+  margin-top: 7px;
   margin-left: 8px;
 }
 #TnD{
-    width: 125px;
+  width: 125px;
   font-family: "Candara";
   box-shadow: 0 2px #27496d;
-  margin-top: 10px;
+  margin-top: 7px;
   margin-left: 8px;
 }
 h1{
