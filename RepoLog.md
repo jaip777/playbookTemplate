@@ -20,8 +20,8 @@ start working on the website. I posted my idea into Google Classroom for the cla
 #### Week 4 (October 9th-13th)
 * Completed: Did some more research on web-design, specifically sports themed websites. I finalized my decision for what I would be including in my website. I also worked on designing some more templates on Google Docs.
 
-#### Week 5 (Date Range Here)
-* To follow
+#### Week 5 (October 16th - 20th)
+* Completed: I did some more research on web-design for a variety of websites to decide how to implement styling onto my website. This week, I focused on dealing with the app banner on the top of the website, which has relocation buttons on the right. I also added a football logo (might just be there temporarily).
 
 #### Week 6 (Date Range Here)
 * To follow
