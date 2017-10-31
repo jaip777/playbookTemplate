@@ -1,5 +1,5 @@
 body {
-text-align: left;
+text-align: justify;
 margin-left: 0px;
 margin-top: 0px;
 margin-right: 0px;
@@ -22,9 +22,14 @@ img {
   padding-left: 3px;
   height: 60px;
 }
-#main{
-  width: 1000px;
+#par1{
 }
+
+#par2{
+  margin-top: 90px;
+  margin-left: 850px;
+  }
+
 #home{
   font-family: "Candara";
   width: 125px;
@@ -60,12 +65,21 @@ h1{
   color: "blue";
 }
 
+h2{
+  margin-top: 4px;
+  margin-left: 30px;
+  text-align: left;
+  font-family: "Candara";
+  font-size: 20pt;
+  color: "blue";
+}
+
 p{
   margin-left: 30px;
   font-family: "Calibri";
-  font-size: 12pt;
+  font-size: 13pt;
   text-align: justify;
   padding-left: 0px;
   color: #2f2d2d;
-  width: 380px;
+  width: 300px;
 }
