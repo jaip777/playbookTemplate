@@ -10,21 +10,21 @@ Location to log 20Time work and learning.  This readme should be updated as a lo
 * Completed: Watched all of the tutorial videos in Intro to HTML on Khan Academy. Completed 4 projects on HTML. Now able to
 start working on the website. I posted my idea into Google Classroom for the class to see.
 
-#### Week 2 (Date Range Here)
+#### Week 2 (September 25th - 29th)
 * Goal: Create some templates (on a Google Docs or something), and get the base website started.
 * Completed: Finished making 1 template. Also watched tutorial videos on how to build a website from scratch (I want to make it myself isntead of using something like Wix), and got started on making it! Created an index.html file (added some text), and I started some styling by creating a style.css file. Got a base website going! Good progress made.
 
-#### Week 3 (Date Range Here)
-* To follow
+#### Week 3 (October 2nd - 6th)
+* Completed: Finished another template for the playbook on google docs. Learned how to position objects around the website by watching tutorial videos, so that I can place my text and images around the website where I choose. Watched tutorials on creating interactive websites. Researched website templates to determine how I should make my website look.
 
-#### Week 4 (Date Range Here)
-* To follow
+#### Week 4 (October 9th-13th)
+* Completed: Did some more research on web-design, specifically sports themed websites. I finalized my decision for what I would be including in my website. I also worked on designing some more templates on Google Docs.
 
-#### Week 5 (Date Range Here)
-* To follow
+#### Week 5 (October 16th - 20th)
+* Completed: I did some more research on web-design for a variety of websites to decide how to implement styling onto my website. This week, I focused on dealing with the app banner on the top of the website, which has relocation buttons on the right. I also added a football logo (might just be there temporarily).
 
-#### Week 6 (Date Range Here)
-* To follow
+#### Week 6 (October 23rd - 27th)
+* Focused on Khan Academy and completing "Intro to JS" this week.
 
 #### Week 7 (Date Range Here)
 * To follow
