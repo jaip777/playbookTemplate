@@ -1,4 +1,5 @@
 body {
+  background-color: #e9f9ef;
 text-align: justify;
 margin-left: 0px;
 margin-top: 0px;
@@ -22,14 +23,20 @@ img {
   padding-left: 3px;
   height: 60px;
 }
-#par1{
+#drink{
+  width: 800px;
+  height: 800px;
 }
-
 #par2{
-  margin-top: 90px;
+  background-color:#ffffff;
+  margin-top:90px;
   margin-left: 850px;
+  width: 360px;
   }
-
+#text2{
+  margin-top:0px;
+  padding-bottom: 4px;
+}
 #home{
   font-family: "Candara";
   width: 125px;
@@ -66,8 +73,9 @@ h1{
 }
 
 h2{
-  margin-top: 4px;
+  margin-top: 15px;
   margin-left: 30px;
+  padding-top:10px;
   text-align: left;
   font-family: "Candara";
   font-size: 20pt;
@@ -75,9 +83,10 @@ h2{
 }
 
 p{
+  line-height: 190%;
   margin-left: 30px;
   font-family: "Calibri";
-  font-size: 13pt;
+  font-size: 12pt;
   text-align: justify;
   padding-left: 0px;
   color: #2f2d2d;
