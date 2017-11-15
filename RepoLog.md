@@ -24,15 +24,15 @@ start working on the website. I posted my idea into Google Classroom for the cla
 * Completed: I did some more research on web-design for a variety of websites to decide how to implement styling onto my website. This week, I focused on dealing with the app banner on the top of the website, which has relocation buttons on the right. I also added a football logo (might just be there temporarily).
 
 #### Week 6 (October 23rd - 27th)
-* Focused on Khan Academy and completing "Intro to JS" this week.
+* Focused on Khan Academy and completing "Intro to JS" this week. Hoping to be able to use what I learn in Intro to JS to make my website interactive for the user, instead of being plain (ex. know how to use buttons for the user to navigate between sections of the website).
 
-#### Week 7 (Date Range Here)
+#### Week 7 (October 30th-November 3rd)
 * To follow
 
-#### Week 8 (Date Range Here)
+#### Week 8 (November 6 - 10th )
 * To follow
 
-#### Week 9 (Date Range Here)
+#### Week 9 (November 13th-17th)
 * To follow
 
 #### Week 10 (Date Range Here)
