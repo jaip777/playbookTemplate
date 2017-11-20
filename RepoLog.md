@@ -26,7 +26,7 @@ start working on the website. I posted my idea into Google Classroom for the cla
 #### Week 6 (October 23rd - 27th)
 * Focused on Khan Academy and completing "Intro to JS" this week. Hoping to be able to use what I learn in Intro to JS to make my website interactive for the user, instead of being plain (ex. know how to use buttons for the user to navigate between sections of the website).
 
-#### Week 7 (October 30th-November 3rd)
+#### Week 7 (October 30th - November 3rd)
 * Had some trouble with making certain images appear on the website, and how I wanted them to appear. So, I watched a ton of youtube videos on tutorials of using images with html and css.
 
 #### Week 8 (November 6 - 10th )
