@@ -35,7 +35,7 @@ start working on the website. I posted my idea into Google Classroom for the cla
 #### Week 9 (November 13th-17th)
 * Got some good work done on researching the types of playbook templates that I would like to include. Did some work on playbooks and used git bash to naviguate into my files for the website, and used git commands that I had learned (git commit-m, git pull, git push, git status, ls, etc.)
 
-#### Week 10 (Date Range Here)
+#### Week 10 (November 20th - 24th)
 * To follow
 
 #### Week 11 (Date Range Here)
