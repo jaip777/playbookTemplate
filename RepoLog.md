@@ -27,13 +27,13 @@ start working on the website. I posted my idea into Google Classroom for the cla
 * Focused on Khan Academy and completing "Intro to JS" this week. Hoping to be able to use what I learn in Intro to JS to make my website interactive for the user, instead of being plain (ex. know how to use buttons for the user to navigate between sections of the website).
 
 #### Week 7 (October 30th-November 3rd)
-* To follow
+* Had some trouble with making certain images appear on the website, and how I wanted them to appear. So, I watched a ton of youtube videos on tutorials of using images with html and css.
 
 #### Week 8 (November 6 - 10th )
-* To follow
+* I created a playlist on youtube with all the videos that I've watched as tutorials. I'm hoping to put this playlist on github under this project so that those who are interested can come and see which videos I got my information from, so that they can potentially use them if they wanted to do a similar project.
 
 #### Week 9 (November 13th-17th)
-* To follow
+* Got some good work done on researching the types of playbook templates that I would like to include. Did some work on playbooks and used git bash to naviguate into my files for the website, and used git commands that I had learned (git commit-m, git pull, git push, git status, ls, etc.)
 
 #### Week 10 (Date Range Here)
 * To follow
