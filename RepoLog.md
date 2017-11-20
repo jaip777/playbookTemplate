@@ -1,5 +1,5 @@
 # 20 Time Project
-Location to log 20Time work and learning.  This readme should be updated as a log file for the project, and any data files (if necessary) should be found within the repo.  
+Location to log 20-Time work and learning.  This readme should be updated as a log file for the project, and any data files (if necessary) should be found within the repo. Hoping to document my weekly progress.  
   
 ## Topic
 * Create a website,  where youth football coaches (like me) can go to and use to build their playbook! The website will provide 
