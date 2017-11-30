@@ -1,5 +1,5 @@
 # 20 Time Project
-Location to log 20Time work and learning.  This readme should be updated as a log file for the project, and any data files (if necessary) should be found within the repo.  
+Location to log 20-Time work and learning.  This readme should be updated as a log file for the project, and any data files (if necessary) should be found within the repo. Hoping to document my weekly progress.  
   
 ## Topic
 * Create a website,  where youth football coaches (like me) can go to and use to build their playbook! The website will provide 
@@ -24,18 +24,18 @@ start working on the website. I posted my idea into Google Classroom for the cla
 * Completed: I did some more research on web-design for a variety of websites to decide how to implement styling onto my website. This week, I focused on dealing with the app banner on the top of the website, which has relocation buttons on the right. I also added a football logo (might just be there temporarily).
 
 #### Week 6 (October 23rd - 27th)
-* Focused on Khan Academy and completing "Intro to JS" this week.
+* Focused on Khan Academy and completing "Intro to JS" this week. Hoping to be able to use what I learn in Intro to JS to make my website interactive for the user, instead of being plain (ex. know how to use buttons for the user to navigate between sections of the website).
 
-#### Week 7 (Date Range Here)
-* To follow
+#### Week 7 (October 30th - November 3rd)
+* Had some trouble with making certain images appear on the website, and how I wanted them to appear. So, I watched a ton of youtube videos on tutorials of using images with html and css.
 
-#### Week 8 (Date Range Here)
-* To follow
+#### Week 8 (November 6 - 10th )
+* I created a playlist on youtube with all the videos that I've watched as tutorials. I'm hoping to put this playlist on github under this project so that those who are interested can come and see which videos I got my information from, so that they can potentially use them if they wanted to do a similar project.
 
-#### Week 9 (Date Range Here)
-* To follow
+#### Week 9 (November 13th-17th)
+* Got some good work done on researching the types of playbook templates that I would like to include. Did some work on playbooks and used git bash to naviguate into my files for the website, and used git commands that I had learned (git commit-m, git pull, git push, git status, ls, etc.)
 
-#### Week 10 (Date Range Here)
+#### Week 10 (November 20th - 24th)
 * To follow
 
 #### Week 11 (Date Range Here)
