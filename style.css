@@ -78,9 +78,28 @@ h2{
   padding-top:10px;
   text-align: left;
   font-family: "Candara";
-  font-size: 20pt;
+  font-size: 24pt;
   color: "blue";
 }
+h4{
+  margin-top: 15px;
+  margin-left: 30px;
+  padding-top:10px;
+  text-align: left;
+  font-family: "Candara";
+  font-size: 18pt;
+  color: "blue";
+}
+h5{
+  margin-top: 15px;
+  margin-left: 30px;
+  padding-top:10px;
+  text-align: left;
+  font-family: "Candara";
+  font-size: 13pt;
+  color: "blue";
+}
+
 
 p{
   line-height: 190%;
