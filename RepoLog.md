@@ -39,7 +39,7 @@ start working on the website. I posted my idea into Google Classroom for the cla
 * Changed plans, decided to be more focused on genereal football coaching help instead of pure templates for playbooks. Will see if I need to eliminate playbooks all together depending on presentation date. Will continue to progress starting with drills and then see where else I can go. 
 
 #### Week 11 (November 27th - December 1st)
-* Started with adding drills. I finished all of the defensive drills, I had added five drills. For now, I will stick with five. Depending on how much time I have before my presentation, I may do more than five drills per section (Offense, Defense, Competitive). Next week will work on offence.
+* Started with adding drills. I finished all of the defensive drills, I had added five drills. For now, I will stick with five. Depending on how much time I have before my presentation, I may do more than five drills per section (Offense, Defense, Competitive). Next week will work on offence. Drills: Square, Bull in the Ring, Shadow, and a couple more.
 
-#### Week 12 (Date Range Here)
-* To follow
+#### Week 12 (December 4th - December 8th)
+* Finished all of the Offensive Drills.
