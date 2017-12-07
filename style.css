@@ -64,6 +64,15 @@ img {
   margin-top: 7px;
   margin-left: 8px;
 }
+#Drills{
+  background-color:#ffffff;
+  margin-top:90px;
+  margin-left:20px;
+  margin-right: 850px;
+  width: 400px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
 #square{
   background-color:#ffffff;
   margin-top:90px;
