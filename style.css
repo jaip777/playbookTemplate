@@ -70,12 +70,16 @@ img {
   margin-left:20px;
   margin-right: 850px;
   width: 400px;
+  padding-right: 5px;
+  padding-bottom: 5px;
 }
 #shadow{
   background-color:#ffffff;
   margin-top:90px;
   margin-left: 850px;
   width: 400px;
+  padding-right: 5px;
+  padding-bottom: 5px;
 }
 #tip{
   background-color:#ffffff;
@@ -83,12 +87,16 @@ img {
   margin-left:20px;
   margin-right: 850px;
   width: 400px;
+  padding-right: 5px;
+  padding-bottom: 5px;
 }
 #trophy{
   background-color:#ffffff;
   margin-top:90px;
   margin-left: 850px;
   width: 400px;
+  padding-right: 5px;
+  padding-bottom: 5px;
 }
 #bull{
   background-color:#ffffff;
@@ -96,6 +104,8 @@ img {
   margin-top:90px;
   margin-right: 850px;
   width: 400px;
+  padding-right: 5px;
+  padding-bottom: 5px;
 }
 h1{
   margin-left: 30px;
@@ -143,4 +153,5 @@ p{
   padding-left: 0px;
   color: #2f2d2d;
   width: 350px;
+
 }
