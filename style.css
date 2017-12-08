@@ -44,20 +44,21 @@ img {
   margin-top: 7px;
   margin-left: 600px;
 }
-#PBTemplates{
+#ODrills{
   font-family: "Candara";
   box-shadow: 0 2px #27496d;
   margin-top: 7px;
   margin-left: 8px;
+  width: 125px;
 }
-#PCSheets{
+#DDrills{
   width: 125px;
   font-family: "Candara";
   box-shadow: 0 2px #27496d;
   margin-top: 7px;
   margin-left: 8px;
 }
-#TnD{
+#CDrills{
   width: 125px;
   font-family: "Candara";
   box-shadow: 0 2px #27496d;
@@ -78,15 +79,15 @@ img {
   margin-top:90px;
   margin-left:20px;
   margin-right: 850px;
-  width: 400px;
+  width: 600px;
   padding-right: 5px;
   padding-bottom: 5px;
 }
 #shadow{
   background-color:#ffffff;
   margin-top:90px;
-  margin-left: 850px;
-  width: 400px;
+  margin-left: 650px;
+  width: 600px;
   padding-right: 5px;
   padding-bottom: 5px;
 }
@@ -95,15 +96,15 @@ img {
   margin-top:90px;
   margin-left:20px;
   margin-right: 850px;
-  width: 400px;
+  width: 600px;
   padding-right: 5px;
   padding-bottom: 5px;
 }
 #trophy{
   background-color:#ffffff;
   margin-top:90px;
-  margin-left: 850px;
-  width: 400px;
+  margin-left: 650px;
+  width: 600px;
   padding-right: 5px;
   padding-bottom: 5px;
 }
@@ -112,7 +113,33 @@ img {
   margin-left:20px;
   margin-top:90px;
   margin-right: 850px;
-  width: 400px;
+  width: 600px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
+#oklahoma{
+  background-color:#ffffff;
+  margin-top:90px;
+  margin-left:20px;
+  margin-right: 850px;
+  width: 600px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
+#moneyball{
+  background-color:#ffffff;
+  margin-top:90px;
+  margin-left:650;
+  width: 600px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
+#coverage{
+  background-color:#ffffff;
+  margin-top:90px;
+  margin-left:20px;
+  margin-right: 850px;
+  width: 600px;
   padding-right: 5px;
   padding-bottom: 5px;
 }
@@ -161,6 +188,5 @@ p{
   text-align: justify;
   padding-left: 0px;
   color: #2f2d2d;
-  width: 350px;
-
+  padding-right: 28px;
 }
