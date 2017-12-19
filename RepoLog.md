@@ -43,3 +43,9 @@ start working on the website. I posted my idea into Google Classroom for the cla
 
 #### Week 12 (December 4th - December 8th)
 * Finished all of the Offensive Drills.
+
+#### Week 13 (December 11th - December 15th)
+* 
+
+#### Week 14 (December 18th - December 22nd)
+* 
