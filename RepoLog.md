@@ -42,10 +42,7 @@ start working on the website. I posted my idea into Google Classroom for the cla
 * Started with adding drills. I finished all of the defensive drills, I had added five drills. For now, I will stick with five. Depending on how much time I have before my presentation, I may do more than five drills per section (Offense, Defense, Competitive). Next week will work on offence. Drills: Square, Bull in the Ring, Shadow, and a couple more.
 
 #### Week 12 (December 4th - December 8th)
-* Finished all of the Offensive Drills.
+* Finished all of the drills. Made the decision to just focus on position specific drill, instead of Offence only or Defence only. Adapted the site to follow accordingly. Finished all research for drills, and all three sections of each drill : What the drill is, how a coach should execute it, and safety percautions.
 
 #### Week 13 (December 11th - December 15th)
-* 
-
-#### Week 14 (December 18th - December 22nd)
 * 
