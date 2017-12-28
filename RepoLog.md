@@ -45,4 +45,5 @@ start working on the website. I posted my idea into Google Classroom for the cla
 * Finished all of the drills. Made the decision to just focus on position specific drill, instead of Offence only or Defence only. Adapted the site to follow accordingly. Finished all research for drills, and all three sections of each drill : What the drill is, how a coach should execute it, and safety percautions.
 
 #### Week 13 (December 11th - December 15th)
-* 
+* Images! This week I designed diagrams on google slides, exported them as jpeg images, and then added them to my website. All of these diagrams display how the drill should be run, since I believe that adding a visual component is useful for this type of website. I also styled them with css, and positioned them and sized them around the site to look visually appealing. 
+
