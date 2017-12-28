@@ -5,11 +5,57 @@ margin-left: 0px;
 margin-top: 0px;
 margin-right: 0px;
 }
-#football {
-  position:absolute;
-  margin-left: 15px;
-  height: 50px;
-  padding-bottom: 2px;
+img{
+  width: 620px;
+  height:400px;
+}
+#BOX {
+  position: absolute;
+  left:700px;
+  top:1100px;
+  bottom: 0px;
+}
+#shadowimg {
+  position: absolute;
+  right:720px;
+  top:1650px;
+  bottom: 0px;
+}
+#tipimg {
+  position: absolute;
+  left:700px;
+  top:2330px;
+  bottom: 0px;
+}
+#trophyimg {
+  position: absolute;
+  right:720px;
+  top:2920px;
+  bottom: 0px;
+}
+#bullimg {
+  position: absolute;
+  left:700px;
+  top:3690px;
+  bottom: 0px;
+}
+#oklaimg {
+  position: absolute;
+  left:700px;
+  top:4500px;
+  bottom: 0px;
+}
+#moneyimg {
+  position: absolute;
+  right:720px;
+  top:5325px;
+  bottom: 0px;
+}
+#coverimg {
+  position: absolute;
+  left:700px;
+  top:6160px;
+  bottom: 0px;
 }
 #appBar {
   background: black;
@@ -44,13 +90,7 @@ margin-right: 0px;
   margin-top: 7px;
   margin-left: 600px;
 }
-#ODrills{
-  font-family: "Candara";
-  box-shadow: 0 2px #27496d;
-  margin-top: 7px;
-  margin-left: 8px;
-  width: 125px;
-}
+
 #DDrills{
   width: 125px;
   font-family: "Candara";
@@ -67,10 +107,10 @@ margin-right: 0px;
 }
 #Drills{
   background-color:#ffffff;
-  margin-top:90px;
+  margin-top:10px;
   margin-left:20px;
   margin-right: 850px;
-  width: 400px;
+  width: 600px;
   padding-right: 5px;
   padding-bottom: 5px;
 }
@@ -143,36 +183,7 @@ margin-right: 0px;
   padding-right: 5px;
   padding-bottom: 5px;
 }
-#coverimg{
-  position:absolute;
-  margin-left: 15px;
-  height: 500px;
-  padding-bottom: 2px;
-}
-#moneyimg{
-  position:absolute;
-  margin-left: 15px;
-  height: 500px;
-  padding-bottom: 2px;
-}
-#tipimg{
-  position:absolute;
-  margin-left: 15px;
-  height: 500px;
-  padding-bottom: 2px;
-}
-#bullimg{
-  position:absolute;
-  margin-left: 15px;
-  height: 500px;
-  padding-bottom: 2px;
-}
-#trophyimg{
-  position:absolute;
-  margin-left: 15px;
-  height: 500px;
-  padding-bottom: 2px;
-}
+
 h1{
   margin-left: 30px;
   text-align: left;
